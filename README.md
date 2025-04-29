@@ -1,4 +1,4 @@
-# 🌦️ Weather App - Modern Android Weather Application
+# 🌦️ Weather App - Simple Android Weather Application (Practical and First Version)
 # Built with Kotlin, Jetpack Compose, and MVVM Architecture
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/yourusername/WeatherApp?color=blue&style=flat)
@@ -33,7 +33,6 @@ This app provides **real-time weather data, forecasts, and atmospheric condition
 - **MVVM Architecture** - Clean separation of concerns
 - **Retrofit** - API communication
 - **Dagger Hilt** - Dependency injection
-- **Coroutines & Flow** - Asynchronous operations
 - **Room Database** - Local data persistence
 - **Material 3** - Design system
 
@@ -47,7 +46,7 @@ This app provides **real-time weather data, forecasts, and atmospheric condition
 ## 🔧 Installation
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/WeatherApp.git
+git clone https://github.com/mohammad8186/Weather_Simple_App_Android
 
 # Open in Android Studio and sync Gradle
 # Run on emulator or physical device
@@ -55,4 +54,4 @@ git clone https://github.com/yourusername/WeatherApp.git
 
 ---
 
-## 📁 Project Structure
+
